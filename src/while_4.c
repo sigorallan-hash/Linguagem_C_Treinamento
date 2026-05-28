@@ -1,0 +1,21 @@
+#include<stdio.h>
+
+int main(){
+    int linha,coluna;
+
+    linha = 1;
+    coluna = 1;
+    while (linha <= 10)
+    {
+        while (coluna <= 15 )
+        {
+            printf("#");
+            coluna++;
+        }
+        coluna = 1;
+        printf("\n");
+        linha++;
+
+    }
+    return 0;
+} 
