@@ -30,3 +30,15 @@ vamos listar os items trabalhados neste repositório:
   * ponteiro
 
   * criação de arquivos
+  
+  #### demonstração de uma estrutura simples de arquivos.c
+  
+  ``` c
+#include <stdio.h>
+#include <stdlib.h>
+int main(){
+    int x = 10
+    printf ("O valor de %d\n",x)
+    printf ("hello world!");
+}
+```
