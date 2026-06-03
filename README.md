@@ -1,6 +1,6 @@
 # Linguagem_C_Treinamento
 ## aplicada a lógica de programação e algoritimos em c
-<img src=c-programing.jpg width ="360" height="360">
+<img src=c-programing.jpeg width ="360" height="360">
 </p>
 
 ...
