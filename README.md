@@ -10,9 +10,11 @@ estudo das principais estruturas da linguagem de programação em C.
 vamos listar os items trabalhados neste repositório:
   
   * variaveis
+
   * comandos de entrada e saida de dados(Io input & output):
-  * springf
-  * scanf
+  - springf
+  - scanf
+  
   * desvio de fluxo simples (if ...)
   * desvio de fluxo multiplo (if ... else ...)
   * estrutura de repetição while(enquanto):
@@ -26,4 +28,5 @@ vamos listar os items trabalhados neste repositório:
   - Módulos da linguagem (stdio.h)
   - Módulos de usúario (stdlib.h)
   * ponteiro
-  * 
+
+  * criação de arquivos
