@@ -1,6 +1,6 @@
 # Linguagem_C_Treinamento
 ## aplicada a lógica de programação e algoritimos em c
-<img src=c-programing.jgp width ="360" height="360">
+<img src=c-programing.jpg width ="360" height="360">
 </p>
 
 ...
@@ -14,7 +14,7 @@ vamos listar os items trabalhados neste repositório:
   * comandos de entrada e saida de dados(Io input & output):
   - springf
   - scanf
-  
+
   * desvio de fluxo simples (if ...)
   * desvio de fluxo multiplo (if ... else ...)
   * estrutura de repetição while(enquanto):
