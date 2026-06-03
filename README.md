@@ -17,9 +17,13 @@ vamos listar os items trabalhados neste repositório:
   * desvio de fluxo multiplo (if ... else ...)
   * estrutura de repetição while(enquanto):
   * estrutura de repetição for (para)
+  
   * função (modulos):
   - função interna (dentro do arquivo .c)
   - função externa (dentro do arquivo .h)
-  importação de módulos
+  
+  * importação de módulos
   - Módulos da linguagem (stdio.h)
   - Módulos de usúario (stdlib.h)
+  * ponteiro
+  * 
