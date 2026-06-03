@@ -34,11 +34,38 @@ vamos listar os items trabalhados neste repositório:
   #### demonstração de uma estrutura simples de arquivos.c
   
   ``` c
+                 //codigo 1
 #include <stdio.h>
 #include <stdlib.h>
+
 int main(){
-    int x = 10
-    printf ("O valor de %d\n",x)
+    
+    int x = 10;
+    
+    printf ("O valor de %d\n",x);
     printf ("hello world!");
+    
+    return 0;
+}    
+                 //codigo 2
+#include<stdio.h>
+#include<stdlib.h>
+
+int main(){
+int variavel_1, variavel_2;
+
+printf ("digite a variavel 1: ");
+scanf ("%d",&variavel_1);
+
+printf ("digite a variavel 2:");
+scanf ("%d",&variavel_2);
+
+if(variavel_2 <= variavel_1){
+ printf("aprovado!");
+} else(){
+    printf ("reprovado!");
+}
+
+return 0;
 }
 ```
